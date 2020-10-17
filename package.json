@@ -1,0 +1,30 @@
+{
+  "name": "logger-nodejs-simple",
+  "version": "1.0.0",
+  "description": "Simple NodeJS Logger using colorful outputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/depascaldc/simple-nodejs-logger"
+  },
+  "keywords": [
+    "logger", 
+    "logging", 
+    "logs", 
+    "nodejs-logger", 
+    "simple-logger", 
+    "nodejs-logging", 
+    "nodelogger", 
+    "loggerjs", 
+    "logjs",
+    "log4js"
+  ],
+  "author": "depascaldc",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
